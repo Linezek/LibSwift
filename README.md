@@ -1,3 +1,2 @@
 # LibSwift
-My lib in swift 
-;
+I'm working on an opensource for dev IOS in Swift ;)
