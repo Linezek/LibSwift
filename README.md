@@ -1,2 +1,2 @@
-# LibSwift
-I'm working on an opensource for dev IOS in Swift ;)
+# Swift Library
+I'm working on an opensource library for dev IOS in Swift ;)
